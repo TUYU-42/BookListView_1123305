@@ -1,0 +1,29 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.rsuser
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## OS
+Thumbs.db
+.DS_Store
+
+## IDE
+.idea/
+*.sln.iml
+
+## Git
+.git/
